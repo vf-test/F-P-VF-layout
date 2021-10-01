@@ -6,4 +6,4 @@
 - Create a directory for container 
 - Clone into Container
 ### - The Nodes Modules folder should be ignored 
-### - To run locally one must run gulp in the terminal (which this is ran you can make edits and the site will refresh update accordingly) 
+### - To run locally one must run gulp in the terminal (when this is ran you can make edits and the site will refresh/update accordingly if you make changes to the code.) 
