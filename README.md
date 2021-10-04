@@ -7,5 +7,6 @@
 - - Create a Personal Token and save your key ( this key is needed for when you are doing commits and pulls )
 - Create a directory for container 
 - Clone into Container
+- Navigate to css folder within wp-content and add files from dev-stuff/css to there respect folders/locations as stated within folder which will create the styles override.
 ### - The Nodes Modules folder should be ignored 
 ### - To run locally one must run gulp in the terminal (when this is ran you can make edits and the site will refresh/update accordingly if you make changes to the code.) 
